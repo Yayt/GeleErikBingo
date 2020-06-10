@@ -1,2 +1,0 @@
-# GeleErikBingo
-Created with CodeSandbox
